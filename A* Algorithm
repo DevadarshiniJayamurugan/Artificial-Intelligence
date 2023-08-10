@@ -20,11 +20,8 @@ def aStarAlgo(start_node, stop_node):
                     g[m] = g[n] + weight
                 else:
                     if g[m] > g[n] + weight:
-                        #update g(m)
                         g[m] = g[n] + weight
-                        #change parent of m to n
                         parents[m] = n
-                        #if m in closed set,remove and add to open
                         if m in closed_set:
                             closed_set.remove(m)
                             open_set.add(m)

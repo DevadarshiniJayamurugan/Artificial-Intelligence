@@ -30,7 +30,7 @@
 ## 16. Decision Tree
 ![image](https://github.com/DevadarshiniJayamurugan/Artificial-Intelligence/assets/100745306/384dd787-639e-487e-9dbf-5d7c49c02b65)
 ## 17. Feed Forward Neural Network
-
+![image](https://github.com/DevadarshiniJayamurugan/Artificial-Intelligence/assets/100745306/e2b0cbe2-e3aa-4798-8f0c-46c2bb02c6ec)
 ## 18. Sum of Integers
 
 ## 19. Student Teacher Sub Code
@@ -54,7 +54,7 @@
 ## 28. Medical Diagnosis
 
 ## 29. Forward Chaining
-
+![image](https://github.com/DevadarshiniJayamurugan/Artificial-Intelligence/assets/100745306/706da2df-a734-40d9-91ff-c8a8a5fe6d0d)
 ## 30. Backward Chaining
 
 ## 31. Web Blog

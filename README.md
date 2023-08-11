@@ -31,5 +31,33 @@
 ![image](https://github.com/DevadarshiniJayamurugan/Artificial-Intelligence/assets/100745306/384dd787-639e-487e-9dbf-5d7c49c02b65)
 ## 17. Feed Forward Neural Network
 
-## 18. Towers Of Hanoi
+## 18. Sum of Integers
+
+## 19. Student Teacher Sub Code
+
+## 20. Planets Problem
+
+## 21. Towers of Hanoi Prolog 
+
+## 22. Bird Problem 
+![image](https://github.com/DevadarshiniJayamurugan/Artificial-Intelligence/assets/100745306/f2dfe7f8-8837-4bf6-b011-2b2f7bf225e0)
+## 23. Family Tree 
+![image](https://github.com/DevadarshiniJayamurugan/Artificial-Intelligence/assets/100745306/7f036f4c-9df8-4e53-a9bc-61f72c5a235b)
+## 24. Dieting System Based on Disease
+
+## 25. Monkey Banana 
+
+## 26. Fruit Colour Problem
+
+## 27. BFS
+
+## 28. Medical Diagnosis
+
+## 29. Forward Chaining
+
+## 30. Backward Chaining
+
+## 31. Web Blog
+
+## 32. Towers Of Hanoi Python
 ![Screenshot 2023-08-10 114004](https://github.com/DevadarshiniJayamurugan/Artificial-Intelligence/assets/100745306/dd47a10c-583f-4fa9-97cc-b9380d18a2bf)
